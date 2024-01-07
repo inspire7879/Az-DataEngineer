@@ -2,10 +2,10 @@
 
 ### Create New 
 > Portal -> App Registration -> Register an application
-> user id and password as called as app id, secret
-> Application (client) Id present in the overview page of Newly Registered App will be used by the apps.
-> Create Secret
-  - Portal -> App Registration  -> Click on Newly registered App -> Click Certicates & secret
+- user id and password as called as app id, secret
+- Application (client) Id present in the overview page of Newly Registered App will be used by the apps.
+- Create Secret
+  > Portal -> App Registration  -> Click on Newly registered App -> Click Certicates & secret
   - Value is the one used by the apps
 
 ## Azure Hierarchy 
