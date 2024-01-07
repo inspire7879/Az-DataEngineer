@@ -7,6 +7,7 @@
 - Create Secret
   > Portal -> App Registration  -> Click on Newly registered App -> Click Certicates & secret
   - Value is the one used by the apps
+  
 ## Password Rotation
 -> Create a new password before the old password expired with same Secret Id.
 -> Stop the application and restar
