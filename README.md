@@ -1,5 +1,8 @@
 ## Azure Service Principal
 
+## Verifying App Registration Permision
+> Portal -> Active Directory -> Users -> Click on the User -> Check App Registration Switch
+
 ### Create New 
 > Portal -> App Registration -> Register an application
 - user id and password as called as app id, secret
