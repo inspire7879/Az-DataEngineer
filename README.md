@@ -9,10 +9,10 @@
   - Value is the one used by the apps
   
 ## Password Rotation
--> Create a new password before the old password expired with same Secret Id.
--> Stop the application and restar
--> Delete the expired Secret
--> Restart App
+- Create a new password before the old password expired with same Secret Id.
+- Stop the application and restar
+- Delete the expired Secret
+- Restart App
 
 ## Azure Hierarchy 
 AAD 
